@@ -1,0 +1,2 @@
+# JavaPractice
+algorithm practice
